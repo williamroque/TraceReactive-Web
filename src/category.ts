@@ -2,7 +2,7 @@ import type { NodeCategory } from '@tracereactive/types';
 
 export const WebRequestCategory: NodeCategory = {
     name: 'Requests',
-    accent: 'emerald-600',
+    accent: 'emerald-500',
     packageId: 'com.tracereactive.web'
 };
 
