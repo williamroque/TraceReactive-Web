@@ -1,0 +1,8 @@
+{
+  "id": "com.tracereactive.web",
+  "name": "Web",
+  "version": "1.0.0",
+  "description": "Fetch web pages and extract structured data using CSS selectors and Cheerio.",
+  "main": "dist/index.js",
+  "permissions": ["net:fetch"]
+}
